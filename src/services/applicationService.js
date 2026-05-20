@@ -1,4 +1,4 @@
-import { supabase } from '../lib/supabase'
+import { supabase } from '../lib/Supabase'
 import { handleError } from './serviceHelpers'
 
 // ─── FETCH ────────────────────────────────────────────────────────────────────
